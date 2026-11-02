@@ -1,6 +1,6 @@
 # Portfolio de compétences
 
-**Orientation :**
+**Orientation : Géologie**
 
 [Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
 
@@ -10,11 +10,11 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. PETRMAGMMETA-2 Lames minces et cristallisation
+2. CAMPPETRMAGM-2 Terrain et processus magmatiques
+3. CAMPSTRASEDI-3 Documenter travail de terrain
+4. GEOLREGI-1 Caractériser les ensembles géologiques
+5. GEOMORII-1 Compréhension processus montagne
 
 ---
 
