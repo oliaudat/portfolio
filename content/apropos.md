@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en **[Géologie]** à l'**UNIL**, avec un intérêt particulier pour **[la pétrologie métamorphique et magmatique]**.
+Je suis étudiant(e) en bachelor en **Géologie** à l'**UNIL**, avec un intérêt particulier pour **la pétrologie métamorphique et magmatique**.
